@@ -1,0 +1,30 @@
+.beg{
+    background-color: #eeeeee;
+    text-align: center;
+    padding-top: 10px;
+}
+#tribute-info {
+     background-color: #eeeeee;
+     text-wrap: wrap;
+    }
+h3{
+        text-align: center;
+    }
+#tribute-info ul{
+    padding-left: 500px;
+    padding-right:500px;
+}
+#tribute-info p{
+    text-align: center;
+}
+.bruh{
+   padding-left: 200px;
+}
+#image{
+    display: block;
+    max-width: 100%;
+    margin-left:400px ;
+}
+#img-caption{
+    text-align: center;
+}
